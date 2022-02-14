@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Lukas, a software engineer at [In The Pocket](https://github.com/inthepocket)
+- 😍 I enjoy working with [Preact](https://preactjs.com/), [Vue.js](https://vuejs.org/), [Fastify](https://www.fastify.io/) & [.NET](https://dotnet.microsoft.com/en-us/)
+- 🧙‍♂️ I'm fluent in HTML, CSS, [TypeScript](https://www.typescriptlang.org/) & [Node.js](https://nodejs.org/en/)
+- 👀 I’m interested in accessibility, performance and clean code
+- 🌱 I’m currently learning [Remix](https://remix.run)
+- ❤️ Projects I'm proud of: [Cookie Though](https://github.com/inthepocket/cookie-though)
+- 💞️ I’m looking to collaborate anything that peaks my interest really 🤷‍♂️
+- 📫 How to reach me: [Email](mailto:lukascornille@hotmail.com), [Discord](discordapp.com/users/203221870277820417), [Twitter](https://twitter.com/Klukies)
